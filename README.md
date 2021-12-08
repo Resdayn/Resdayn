@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/centralPark.jpg">
+    <img src="https://github.com/Resdayn/Resdayn/blob/main/img/centralPark.JPG?raw=true">
 </p>
 
 # Hello! I'm Juan 👋
