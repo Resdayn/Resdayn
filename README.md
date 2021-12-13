@@ -25,6 +25,7 @@ I'm a IT support admin in South Korea. I'm currently learning web development, w
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></img>
 
 ## My Projects
+- <a href="https://github.com/Resdayn/restaurant_site">Restaurant Site</a>: A restaurant website created with Vue Router.
 - <a href="https://github.com/Resdayn/bookmark-app">Bookmark App</a>: Simple bookmark app created with Vue that saves links with a title/description and writes to a Firebase database.
 - <a href="https://github.com/Resdayn/jsLibrary">Library</a>: Proof of concept of a library app where you can add books. Currently not persistent. Made with vanilla Javascript.
 - <a href="https://github.com/Resdayn/jsCalculator">Calculator</a>: Made exclusively with vanilla Javascript. It has all the basic functions and can remember past opeartions.
