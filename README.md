@@ -4,7 +4,7 @@
 
 # Hello! I'm Juan 👋
 
-I'm a IT support admin in South Korea. I'm currently learning web development, with focus on both front and backend. I'm fluent in Spanish, English and Korean.
+I'm a IT support admin in South Korea. I'm currently self-studying web development, with focus on the frontend but with aim to soon include backend. I am also fluent in Spanish, English and Korean.
 
 <!-- ## About Me
 - 🔭 I’m currently working on ...
@@ -25,6 +25,7 @@ I'm a IT support admin in South Korea. I'm currently learning web development, w
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></img>
 
 ## My Projects
+- <a href="https://github.com/Resdayn/weather-now">Weather Now</a>: Simple weather app made with Vue that calls an API to display the current weather of any city. 
 - <a href="https://github.com/Resdayn/restaurant_site">Restaurant Site</a>: A restaurant website created with Vue Router.
 - <a href="https://github.com/Resdayn/bookmark-app">Bookmark App</a>: Simple bookmark app created with Vue that saves links with a title/description and writes to a Firebase database.
 - <a href="https://github.com/Resdayn/jsLibrary">Library</a>: Proof of concept of a library app where you can add books. Currently not persistent. Made with vanilla Javascript.
