@@ -12,7 +12,6 @@ I'm currently self-studying web development, primarily focused on the frontend w
 
 I am also fluent in Spanish, English and Korean.
 
-<br>
 <!-- ## About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,15 +23,12 @@ I am also fluent in Spanish, English and Korean.
 - ⚡ Fun fact: ... -->
 
 ## Skills
-<br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></img>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></img>
-
-<br>
 
 ## My Projects
 - <a href="https://github.com/Resdayn/find-a-mentor-app">Find A Mentor</a>: (Work In Progress). Made with Vue. Platform where mentors can register and people can send messages to contact them. Will use a FireBase backend and will include authentication.
